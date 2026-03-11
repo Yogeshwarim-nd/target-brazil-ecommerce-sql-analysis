@@ -29,14 +29,13 @@ https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
 The dataset consists of **8 CSV files**:
 
 | File | Description |
-|-----|-------------|
+|------|-------------|
 | customers.csv | Customer information and location |
 | sellers.csv | Seller information |
 | orders.csv | Order details and timestamps |
 | order_items.csv | Product items in each order |
 | products.csv | Product attributes |
 | payments.csv | Payment information |
-| reviews.csv | Customer review data |
 | geolocation.csv | Location coordinates for zip codes |
 
 Total records analyzed: **~100,000 orders**
